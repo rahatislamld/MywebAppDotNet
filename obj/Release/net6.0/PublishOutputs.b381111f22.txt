@@ -1,0 +1,7 @@
+/home/rahat/MyWebApp/out/MyWebApp
+/home/rahat/MyWebApp/out/appsettings.Development.json
+/home/rahat/MyWebApp/out/appsettings.json
+/home/rahat/MyWebApp/out/MyWebApp.dll
+/home/rahat/MyWebApp/out/MyWebApp.deps.json
+/home/rahat/MyWebApp/out/MyWebApp.runtimeconfig.json
+/home/rahat/MyWebApp/out/MyWebApp.pdb
