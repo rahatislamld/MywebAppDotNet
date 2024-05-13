@@ -23,3 +23,9 @@
 /home/rahat/MyWebApp/obj/Debug/net6.0/MyWebApp.pdb
 /home/rahat/MyWebApp/obj/Debug/net6.0/MyWebApp.genruntimeconfig.cache
 /home/rahat/MyWebApp/obj/Debug/net6.0/ref/MyWebApp.dll
+/home/rahat/MyWebApp/bin/Debug/net6.0/out/web.config
+/home/rahat/MyWebApp/bin/Debug/net6.0/out/appsettings.Development.json
+/home/rahat/MyWebApp/bin/Debug/net6.0/out/appsettings.json
+/home/rahat/MyWebApp/bin/Debug/net6.0/out/MyWebApp.deps.json
+/home/rahat/MyWebApp/bin/Debug/net6.0/out/MyWebApp.runtimeconfig.json
+/home/rahat/MyWebApp/obj/Debug/net6.0/MyWebApp.sourcelink.json
